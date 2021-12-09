@@ -1,0 +1,50 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Texturas_boca
+Ns 4.134078
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.671642 0.671642 0.671642
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Pro1\\Project1\\prac9\\Textures\\Negro.jpg
+map_d C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Modelos3D\\cute-pug\\source\\Textura\\Textura.png
+
+newmtl Texturas_cuerpo
+Ns 51.588252
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Pro1\\Project1\\prac9\\Textures\\cafe.png
+map_d C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Modelos3D\\cute-pug\\source\\Textura\\Textura.png
+
+newmtl Texturas_lengua
+Ns 329.518561
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Pro1\\Project1\\prac9\\Textures\\rojo.jpg
+map_d C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Modelos3D\\cute-pug\\source\\Textura\\Textura.png
+
+newmtl Texturas_ojos
+Ns 297.176429
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Pro1\\Project1\\prac9\\Textures\\Negro.jpg
+map_d C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Modelos3D\\cute-pug\\source\\Textura\\Textura.png

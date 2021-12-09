@@ -1,0 +1,90 @@
+# Blender MTL File: 'None'
+# Material Count: 8
+
+newmtl Shape.038
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.612500 0.612500 0.612500
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Modelos3D\\nintendo-64-the-powerpuff-girls-chemical-x-tra\\source\\Buttercup\\13263AC_c.png
+
+newmtl Shape.039
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.468750 0.468750 0.468750
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Modelos3D\\nintendo-64-the-powerpuff-girls-chemical-x-tra\\source\\Buttercup\\5D38BF5_c.png
+
+newmtl Shape.040
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.468750 0.468750 0.468750
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Modelos3D\\nintendo-64-the-powerpuff-girls-chemical-x-tra\\source\\Buttercup\\46D5AA4B_c.png
+
+newmtl Shape.041
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.565625 0.565625 0.565625
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Modelos3D\\nintendo-64-the-powerpuff-girls-chemical-x-tra\\source\\Buttercup\\6955B663_c.png
+
+newmtl Shape.042
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.796875 0.796875 0.796875
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Modelos3D\\nintendo-64-the-powerpuff-girls-chemical-x-tra\\source\\Buttercup\\6F73E574_c.png
+
+newmtl Shape.043
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.478125 0.478125 0.478125
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Modelos3D\\nintendo-64-the-powerpuff-girls-chemical-x-tra\\source\\Buttercup\\79E77C37_c.png
+
+newmtl Shape.044
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.521875 0.521875 0.521875
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Modelos3D\\nintendo-64-the-powerpuff-girls-chemical-x-tra\\source\\Buttercup\\4BE1FCA3_c.png
+
+newmtl Shape.045
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.596875 0.596875 0.596875
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Modelos3D\\nintendo-64-the-powerpuff-girls-chemical-x-tra\\source\\Buttercup\\7FE75FF7_c.png

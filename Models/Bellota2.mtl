@@ -1,0 +1,90 @@
+# Blender MTL File: 'None'
+# Material Count: 8
+
+newmtl Shape.038
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.612500 0.612500 0.612500
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Pro1\\Project1\\prac9\\Textures\\cabello.png
+
+newmtl Shape.039
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.468750 0.468750 0.468750
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Pro1\\Project1\\prac9\\Textures\\boca.png
+
+newmtl Shape.040
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.468750 0.468750 0.468750
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Pro1\\Project1\\prac9\\Textures\\ropa.png
+
+newmtl Shape.041
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.565625 0.565625 0.565625
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Pro1\\Project1\\prac9\\Textures\\ojo (1).png
+
+newmtl Shape.042
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.796875 0.796875 0.796875
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Pro1\\Project1\\prac9\\Textures\\fleco.png
+
+newmtl Shape.043
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.478125 0.478125 0.478125
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Pro1\\Project1\\prac9\\Textures\\piel.png
+
+newmtl Shape.044
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.521875 0.521875 0.521875
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Pro1\\Project1\\prac9\\Textures\\pie.png
+
+newmtl Shape.045
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.596875 0.596875 0.596875
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\feliz\\Documents\\Lab Compu Grafica\\Pro1\\Project1\\prac9\\Textures\\blancoBello.png
